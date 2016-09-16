@@ -11,7 +11,7 @@ class ViewController: UIViewController {
         let url = NSURL.fileURLWithPath(path!)
          moviePlayer =  MPMoviePlayerViewController(contentURL: url)
         
-        if let player = moviePlayer?.moviePlayer {                               //Está dando erro aqui
+        if let player = moviePlayer?.moviePlayer {                                
             player.view.frame = self.view.bounds
             player.prepareToPlay()
             player.scalingMode = .AspectFill
@@ -20,12 +20,12 @@ class ViewController: UIViewController {
     }
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+       
     }
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+         
     }
 
 
