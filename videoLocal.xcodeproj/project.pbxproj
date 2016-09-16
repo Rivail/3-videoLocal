@@ -12,6 +12,7 @@
 		71AA2D8F1D8C7F2B00606B9C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71AA2D8D1D8C7F2B00606B9C /* Main.storyboard */; };
 		71AA2D911D8C7F2B00606B9C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71AA2D901D8C7F2B00606B9C /* Assets.xcassets */; };
 		71AA2D941D8C7F2B00606B9C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71AA2D921D8C7F2B00606B9C /* LaunchScreen.storyboard */; };
+		71AA2D9C1D8C7F8A00606B9C /* The Greatest Bass Solo Ever.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 71AA2D9B1D8C7F8A00606B9C /* The Greatest Bass Solo Ever.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		71AA2D901D8C7F2B00606B9C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71AA2D931D8C7F2B00606B9C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71AA2D951D8C7F2B00606B9C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71AA2D9B1D8C7F8A00606B9C /* The Greatest Bass Solo Ever.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; name = "The Greatest Bass Solo Ever.mp4"; path = "../../../Downloads/The Greatest Bass Solo Ever.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		71AA2D881D8C7F2B00606B9C /* videoLocal */ = {
 			isa = PBXGroup;
 			children = (
+				71AA2D9B1D8C7F8A00606B9C /* The Greatest Bass Solo Ever.mp4 */,
 				71AA2D891D8C7F2B00606B9C /* AppDelegate.swift */,
 				71AA2D8B1D8C7F2B00606B9C /* ViewController.swift */,
 				71AA2D8D1D8C7F2B00606B9C /* Main.storyboard */,
@@ -124,6 +127,7 @@
 			files = (
 				71AA2D941D8C7F2B00606B9C /* LaunchScreen.storyboard in Resources */,
 				71AA2D911D8C7F2B00606B9C /* Assets.xcassets in Resources */,
+				71AA2D9C1D8C7F8A00606B9C /* The Greatest Bass Solo Ever.mp4 in Resources */,
 				71AA2D8F1D8C7F2B00606B9C /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
