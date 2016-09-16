@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  videoLocal
-//
-//  Created by Riva on 16/09/16.
-//  Copyright © 2016 Riva. All rights reserved.
-//
+ //Postando um vídeo no Device
 
 import UIKit
 import MediaPlayer
